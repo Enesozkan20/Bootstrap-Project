@@ -3,7 +3,7 @@
 This project is a ready-made website template created with Bootstrap 5 to help beginners learn responsive web design. It includes common components like navigation bars, image sliders, product cards, and contact forms that automatically adapt to phones, tablets, and computers.
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue)
-![Responsive](https://img.shields.io/badge/Mobile-Friendly-Yes-green)
+
 
 A simple responsive website using **Bootstrap 5**. Good for beginners to learn.
 
